@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorlm" alt="victorlm" /></a> </p>
 
-- 🔭 I’m currently working on [Serelep App](serelep.com)
+- 🔭 I’m currently working on [Serelep App](https://serelep.com)
 
 - 🌱 I’m currently learning **GSAP, Three.js**
 
