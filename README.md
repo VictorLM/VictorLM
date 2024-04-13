@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **GSAP, Three.js**
 
-- 💬 Ask me about **Nest, Angular, React, Laravel**
+- 💬 Ask me about **NestJS, Angular, React, Laravel, Go**
 
 - 📫 How to reach me **victor.l.m@outlook.com**
 
