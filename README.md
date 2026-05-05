@@ -5,18 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=victorlm" alt="victorlm" /></a> </p>
 
-- 🔭 I’m currently working on [Serelep App](https://serelep.com)
+- 🔭 I’m currently working on [Yunicorn Ventures]([https://yunicorn.vc/])
 
-- 🌱 I’m currently learning **GSAP, Three.js**
+- 🌱 I’m currently learning **Concurrency, Parallelism, Serverless, Scalability, SSR, AI**
 
-- 💬 Ask me about **NestJS, Angular, React, Laravel, Go**
+- 💬 Ask me about **JS, TS, Node, NextJS, NestJS, React, Laravel, Go Lang**
 
 - 📫 How to reach me **victor.l.m@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/victorlucasmeireles/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/victorlucasmeireles/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:9323187" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:9323187" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
